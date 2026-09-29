@@ -1,0 +1,36 @@
+# venvs
+
+> HTML shelf named venvs. Sister of venv and venv-audio.
+
+## Purpose
+Give a plain-language door to fitzyracing1/venvs.
+
+## How it works (plain English)
+1. Keep the original repo as the place for files.
+2. Use this clone to explain the idea.
+3. Send the reader back to the source.
+
+## Key ideas
+- venvs (the named shelf)
+- HTML source
+
+## The actual code
+```
+# source: fitzyracing1/venvs
+open_source()
+```
+
+## Line-by-line translation
+1. open_source() → “go to fitzyracing1/venvs”
+
+## Decisions the program makes
+- If a reader wants venv or venv-audio → those wraps
+
+## What a person would notice
+A named wrap on a venvs door.
+
+## Current status
+Barrage clone.
+
+## Next possible steps
+Open the source.
